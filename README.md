@@ -1,11 +1,11 @@
 # InventoryApp
 Inventory app made with Android Basics Nanodegree by Google
 App is ment to be try out work with database.
-Insert Dummy Data means that we are loading some store data to check if app work properly without filling all fields in New/Edit 
+Insert Dummy Data means that we are loading some stored data to check if app works properly without need to fill all fields in New/Edit 
 item activity.
-Delete all items delet all items stored in database.
+Delete all items delete all items stored in database.
 Floating Action Button opens activity for adding a new item to database.
-There is a spinner gor supplier name, and fields for product name, price, quantity, supplier phone.
+There is a spinner for supplier name, and fields for product name, price, quantity, supplier phone.
 Quantity has buttons for increasing and decreasing by one.
 Phone has a DIAL button to call supplier number.
 There is toast message if user attempt to leave without filling certain fields.
