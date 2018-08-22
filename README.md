@@ -1,6 +1,6 @@
 # InventoryApp
 Inventory app made with Android Basics Nanodegree by Google
-App is ment to be working with database excersise.
+App is ment to be try out work with database.
 Insert Dummy Data means that we are loading some store data to check if app work properly without filling all fields in New/Edit 
 item activity.
 Delete all items delet all items stored in database.
